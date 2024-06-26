@@ -7,7 +7,7 @@ I'm passionate about game development and aiming to become a UI Programmer in Un
 ## Interests
 
 - Game Development
-- UI/UX Design
+- UI Design
 - Unreal Engine
 - Emerging Technologies like AR and VR
 - AI
